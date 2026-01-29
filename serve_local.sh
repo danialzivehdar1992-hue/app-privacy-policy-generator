@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 
 # App Privacy Policy Generator: A simple web app to generate a generic 
